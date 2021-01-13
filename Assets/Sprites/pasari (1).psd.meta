@@ -1,0 +1,823 @@
+fileFormatVersion: 2
+guid: e0f1d38aa38b77547975d064dbd6f3b3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6833223940413445097
+    second: pasari (1)_0
+  - first:
+      213: 2450787117154231864
+    second: pasari (1)_1
+  - first:
+      213: 1181765147857022637
+    second: pasari (1)_2
+  - first:
+      213: 8190691725770533552
+    second: pasari (1)_3
+  - first:
+      213: 4338594710065149915
+    second: pasari (1)_4
+  - first:
+      213: 229946213895777605
+    second: pasari (1)_5
+  - first:
+      213: -2734597954237587837
+    second: pasari (1)_6
+  - first:
+      213: -6580911863945600950
+    second: pasari (1)_7
+  - first:
+      213: 4946408087568459158
+    second: pasari (1)_8
+  - first:
+      213: -4908076693677717213
+    second: pasari (1)_9
+  - first:
+      213: 2010647226510115550
+    second: pasari (1)_10
+  - first:
+      213: -6643927553619672353
+    second: pasari (1)_11
+  - first:
+      213: -3877980269255109158
+    second: pasari (1)_12
+  - first:
+      213: 4116724032521297936
+    second: pasari (1)_13
+  - first:
+      213: -7832261825538071781
+    second: pasari (1)_14
+  - first:
+      213: -5210628583929318303
+    second: pasari (1)_15
+  - first:
+      213: 5770482839818958560
+    second: pasari (1)_16
+  - first:
+      213: -2313642207189791049
+    second: pasari (1)_17
+  - first:
+      213: -1700470010507617153
+    second: pasari (1)_18
+  - first:
+      213: -2232715484049715428
+    second: pasari (1)_19
+  - first:
+      213: -1781645014274847183
+    second: pasari (1)_20
+  - first:
+      213: 498449762590327253
+    second: pasari (1)_21
+  - first:
+      213: 7018559879123335607
+    second: pasari (1)_22
+  - first:
+      213: -7513007693316345868
+    second: pasari (1)_23
+  - first:
+      213: -6997049803522212003
+    second: pasari (1)_24
+  - first:
+      213: -4032062906851121956
+    second: pasari (1)_25
+  - first:
+      213: -3474629552171866577
+    second: pasari (1)_26
+  - first:
+      213: -7553882749687545201
+    second: pasari (1)_27
+  - first:
+      213: 8688209612582818237
+    second: pasari (1)_28
+  - first:
+      213: -3607086161082057209
+    second: pasari (1)_29
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pasari (1)_0
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 2441
+        width: 399
+        height: 172
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab262fb5b035c44bb9694b8bf28f75e
+      internalID: 6833223940413445097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasari (1)_1
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 2292
+        width: 488
+        height: 321
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d043b8e6b47cc044fb02288dfb8d3ae8
+      internalID: 2450787117154231864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasari (1)_2
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 2211
+        width: 534
+        height: 402
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790d3502aaeb9a44fb220cc6e90ba134
+      internalID: 1181765147857022637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasari (1)_3
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 2306
+        width: 438
+        height: 307
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8661840cf638b734696ce00a0d183bce
+      internalID: 8190691725770533552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasari (1)_4
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 2445
+        width: 399
+        height: 235
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff363d787b1917469bf7e1dc7d4d58b
+      internalID: 4338594710065149915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasari (1)_5
+      rect:
+        serializedVersion: 2
+        x: 3427
+        y: 2445
+        width: 399
+        height: 468
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852ad119d510a134d8a3de48b7ef1eb8
+      internalID: 229946213895777605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasari (1)_6
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1950
+        width: 595
+        height: 152
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd5927e4d0bff94d9fe8c7b0c998f99
+      internalID: -2734597954237587837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasari (1)_7
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1812
+        width: 593
+        height: 290
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1507e7f928fda24fa56ff7a8340c759
+      internalID: -6580911863945600950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasari (1)_8
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 1741
+        width: 617
+        height: 361
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65f6239858cfec4f83d78a330262799
+      internalID: 4946408087568459158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasari (1)_9
+      rect:
+        serializedVersion: 2
+        x: 2107
+        y: 1832
+        width: 594
+        height: 270
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffd77ade1d83384dbd9ae0005c37a34
+      internalID: -4908076693677717213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasari (1)_10
+      rect:
+        serializedVersion: 2
+        x: 2734
+        y: 1966
+        width: 595
+        height: 239
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9f2ff9b79268641b4e521e901fb1f5
+      internalID: 2010647226510115550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasari (1)_11
+      rect:
+        serializedVersion: 2
+        x: 3361
+        y: 1966
+        width: 595
+        height: 463
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c0728e7f4330a4da38abf2658a81bf
+      internalID: -6643927553619672353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasari (1)_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1302
+        width: 601
+        height: 265
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16270bd3afd50a49ad21ae298987da7
+      internalID: -3877980269255109158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasari (1)_13
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1195
+        width: 601
+        height: 372
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9c336c84c4c4e4bad30219ff482c60
+      internalID: 4116724032521297936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasari (1)_14
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 1120
+        width: 601
+        height: 447
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78565af2b00086f4a9b410a24aa819e4
+      internalID: -7832261825538071781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasari (1)_15
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 1211
+        width: 601
+        height: 356
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7002559da61bde742b051017d88d7d5f
+      internalID: -5210628583929318303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasari (1)_16
+      rect:
+        serializedVersion: 2
+        x: 2722
+        y: 1302
+        width: 601
+        height: 286
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191da407edc2f7d41ae96be72bcb1208
+      internalID: 5770482839818958560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasari (1)_17
+      rect:
+        serializedVersion: 2
+        x: 3349
+        y: 1302
+        width: 601
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13be9550b0cf4b46a408662fcba4170
+      internalID: -2313642207189791049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasari (1)_18
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 814
+        width: 488
+        height: 135
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3f92f5859d8f6498476473fb6445be
+      internalID: -1700470010507617153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasari (1)_19
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 649
+        width: 488
+        height: 300
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745be1efcc24e644a91019a98f002f54
+      internalID: -2232715484049715428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasari (1)_20
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 606
+        width: 537
+        height: 343
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a7072baf02cc946b62efde119f1cdd
+      internalID: -1781645014274847183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasari (1)_21
+      rect:
+        serializedVersion: 2
+        x: 2123
+        y: 680
+        width: 488
+        height: 269
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e22384721cf7a4eb31436c15bddefc
+      internalID: 498449762590327253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasari (1)_22
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 814
+        width: 488
+        height: 245
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c160262e204484ea1bdfe3087fc33b
+      internalID: 7018559879123335607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasari (1)_23
+      rect:
+        serializedVersion: 2
+        x: 3377
+        y: 814
+        width: 488
+        height: 456
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81001b2bc932434da99ce24d208cecc
+      internalID: -7513007693316345868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasari (1)_24
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 307
+        width: 555
+        height: 129
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d9466eec7c43f4fbf4fde87d5cd2e1
+      internalID: -6997049803522212003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasari (1)_25
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 149
+        width: 555
+        height: 287
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6370bbafdf3bbb48b28b210b3d79447
+      internalID: -4032062906851121956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasari (1)_26
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 90
+        width: 589
+        height: 346
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2d9b525c95f8142bbe63ff5a219eb3
+      internalID: -3474629552171866577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasari (1)_27
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 177
+        width: 555
+        height: 259
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6992566127547b4787c35afa6f673fa
+      internalID: -7553882749687545201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasari (1)_28
+      rect:
+        serializedVersion: 2
+        x: 2731
+        y: 317
+        width: 555
+        height: 245
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f2303842b69714bbe79f4f445904a5
+      internalID: 8688209612582818237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasari (1)_29
+      rect:
+        serializedVersion: 2
+        x: 3359
+        y: 317
+        width: 555
+        height: 463
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b89985a6abf364b85af1f77072151a
+      internalID: -3607086161082057209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
